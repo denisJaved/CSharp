@@ -1,0 +1,13 @@
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\MapEditor\bin\Debug\MapEditor.exe.config
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\MapEditor\bin\Debug\MapEditor.exe
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\MapEditor\bin\Debug\MapEditor.pdb
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\MapEditor\obj\Debug\MapEditor.csproj.AssemblyReference.cache
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\MapEditor\obj\Debug\MapEditor.csproj.SuggestedBindingRedirects.cache
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\MapEditor\obj\Debug\MapEditor.Form1.resources
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.cache
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\MapEditor\obj\Debug\MapEditor.csproj.CoreCompileInputs.cache
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\MapEditor\obj\Debug\MapEditor.exe
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\MapEditor\obj\Debug\MapEditor.pdb
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\MapEditor\bin\Debug\Control.Draggable.dll
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\MapEditor\obj\Debug\MapEditor.csproj.CopyComplete

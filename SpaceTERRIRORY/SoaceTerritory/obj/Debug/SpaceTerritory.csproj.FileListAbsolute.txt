@@ -1,0 +1,11 @@
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\SoaceTerritory\bin\Debug\SoaceTerritory.exe.config
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\SoaceTerritory\bin\Debug\SoaceTerritory.exe
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\SoaceTerritory\bin\Debug\SoaceTerritory.pdb
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\SoaceTerritory\obj\Debug\SpaceTerritory.csproj.AssemblyReference.cache
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\SoaceTerritory\obj\Debug\SpaceTerritory.csproj.SuggestedBindingRedirects.cache
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\SoaceTerritory\obj\Debug\SpaceTerritory.Form1.resources
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\SoaceTerritory\obj\Debug\SoaceTerritory.Properties.Resources.resources
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\SoaceTerritory\obj\Debug\SpaceTerritory.csproj.GenerateResource.cache
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\SoaceTerritory\obj\Debug\SpaceTerritory.csproj.CoreCompileInputs.cache
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\SoaceTerritory\obj\Debug\SoaceTerritory.exe
+D:\denisJava\C\public\CSharp\SpaceTERRIRORY\SoaceTerritory\obj\Debug\SoaceTerritory.pdb
